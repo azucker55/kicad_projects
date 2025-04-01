@@ -523,7 +523,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gbr/",
+      "plot": "gbr/v2/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
